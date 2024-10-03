@@ -23,8 +23,8 @@
 - 🌱 I'm currently learning: **📚 Exploring Drizzle ORM**
 - 💬 Ask me about: **💡 Nextjs, Graphic Designing, 3D Modelling**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="https://melwin.vercel.app/" target="_blank">https://melwin.vercel.app/</a>**
-- 📝 Blog: **<a href="https://melwin.vercel.app/blogs" target="_blank">https://melwin.vercel.app/blogs</a>**
+- 📂 **<a href="https://melwin.vercel.app/" target="_blank">Portfolio</a>**
+- 📝 **<a href="https://melwin.vercel.app/blogs" target="_blank">Blog</a>**
 
 
  **<h3 align="left">Skills</h3>**
