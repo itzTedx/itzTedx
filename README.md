@@ -34,8 +34,8 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&rank_icon=percentile&text_bold=true&number_format=long" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itzTedx&theme=react&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&rank_icon=percentile&text_bold=true&number_format=long&hide_border=true" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzTedx&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
 </p>
 
  **<h3 align="left">Support Me</h3>**
